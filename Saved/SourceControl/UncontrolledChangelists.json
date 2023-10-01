@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Lectures Projects/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"G:/Lectures Projects/WarehouseWreckage/Content/StarterContent/Maps/StarterMap.umap",
+				"G:/Lectures Projects/WarehouseWreckage/Content/TrainingMaps/Minimal_Default1.umap",
+				"G:/Lectures Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"G:/Lectures Projects/WarehouseWreckage/Content/TrainingMaps/Blueprints/BP_Bullet.uasset",
+				"G:/Lectures Projects/WarehouseWreckage/Content/TrainingMaps/MainMap.umap",
+				"G:/Lectures Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"G:/Lectures Projects/WarehouseWreckage/Content/Blueprints/BP_Barrel2.uasset",
+				"G:/Lectures Projects/WarehouseWreckage/Content/Blueprints/BP_TrafficBarrel.uasset"
+			]
+		}
+	]
+}
